@@ -1,0 +1,4 @@
+project.ext.mainclass = 'sort.FlightJob'
+project.ext.archiveName = 'FlightSort.jar'
+
+apply from: '/home/afroz/build.gradle'
